@@ -1,0 +1,3 @@
+[submodule "software/squeezelite-esp32"]
+	path = software/squeezelite-esp32
+	url = https://github.com/sle118/squeezelite-esp32.git
