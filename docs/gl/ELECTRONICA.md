@@ -2,6 +2,12 @@
 
 Esta é a placa máis sinxela que permite implementar un altofalante dunha única canle (mono) e unha única vía (só un woofer). É a opción máis barata e compacta polo que é ideal se se queren fabricar múltiples unidades para cubrir unha estancia grande.
 
+<img src="../img/placa_montada.jpg" width="900" />
+
+# Esquemático
+
+<img src="../img/schematic_max98357a.png" width="1200" />
+
 # Lista de materiais
 
 | Elemento  | Descrición | Cantidade | Imaxe |
@@ -20,6 +26,7 @@ Esta é a placa máis sinxela que permite implementar un altofalante dunha únic
 | **Resistencia 100 kohm** | Resistencia de 100 Kohm para configurar a ganancia do amplificador ó valor máximo. | 1 | <img src="../img/100kohm.png" width="150" /> |
 | **Encoder** | Encoder en cuadratura co pulsador integrado | 1 | <img src="../img/encoder.png" width="150" /> |
 | **Woofer 3.3" 3W** | Altavoz de 3.3 pulgadas ou 70mm de diámetro de 4 ou 8 ohm e 3W de potencia. *Unha boa fonte para obter este tipo de woofers é a desmontaxe de antigos altofalantes de PC*. | 1 | <img src="../img/woofer.png" width="300" /> |
+| **Conector micro USB con placa** | Conector micro USB empregado para a alimentacióne montado sobre unha PCB con conectores para cableado. | 1 | <img src="../img/microusb.png" width="150" /> |
 
 # Fabricación mediante CNC
 

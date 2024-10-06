@@ -5,5 +5,5 @@ Multi Room Room é un sistema de audio multi habitación baseado no software [Ly
 O obxectivo deste proxecto é conseguir un sistema de audio multi habitación inalámbrico de baixo custe e completamente aberto tanto en hardware como en software. 
 
 * ### [Electrónica](./ELECTRONICA.md)
-
+* ### [Firmware](./FIRMWARE.md)
 * ### [Caixa](./CAIXA.md)
